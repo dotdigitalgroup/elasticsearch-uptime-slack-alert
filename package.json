@@ -1,0 +1,11 @@
+{
+  "name": "elasticsearch-uptime-slack-alert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Thiago Pereria da Silva",
+    "email": "thiago.silva@dotgroup.com.br"
+  },
+  "dependencies": {}
+}

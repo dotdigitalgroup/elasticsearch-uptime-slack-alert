@@ -1,0 +1,6 @@
+.vscode/
+node_modules/
+.DS_Store
+yarn-error.log
+config.json
+notes.md

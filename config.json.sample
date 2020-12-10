@@ -1,0 +1,9 @@
+{
+  "interval_ms": 10000,
+  "search_min_ago": 5,
+  "elasticsearch_url": "",
+  "elasticsearch_apikey": "",
+  "elasticsearch_index": "heartbeat-*",
+  "slack_webhookUrl": "",
+  "slack_channel": ""
+}
